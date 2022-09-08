@@ -1,0 +1,20 @@
+h1{
+    color: palevioletred;
+}
+
+label{
+    color: white;
+    background-color: blueviolet;
+    padding: 08px;
+}
+
+input[type="button"],[type="reset"]{
+    color: white;
+    background-color: blueviolet;
+    font-size: 20px;
+}
+marquee{
+    color: brown;
+    font-size: 16px;
+}
+
