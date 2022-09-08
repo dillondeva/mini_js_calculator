@@ -32,6 +32,6 @@ function operation(clickid)
     document.getElementById("op1").value =""
     document.getElementById("op2").value =""
     document.getElementById("output").value =""
-   }
+   }//elseif completed
 
 }
