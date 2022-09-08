@@ -1,6 +1,6 @@
 function operation(clickid)
 {
-   var v1= parseFloat(document.getElementById("op1").value)
+   var v1= parseFloat(document.getElementById("op1").value) //This is were you will get the value from html document
    var v2= parseFloat(document.getElementById("op2").value)
 
    if(isNaN(v1) || isNaN(v2))
